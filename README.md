@@ -4,3 +4,5 @@
 # React
 # NodeJs
 # MYSQL
+
+# use npm install to insatll the required dependencies
